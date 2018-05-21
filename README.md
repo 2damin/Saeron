@@ -4,5 +4,3 @@
 2. Model : ssd-mobileNet.
 
 3. Inference program is made by PyQt5 and *real-time* object detecting program.
-
-![Alt text](C:\Users\Damin\Pictures\objectdetection_inferenceProgram.png)
